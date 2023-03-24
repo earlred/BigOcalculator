@@ -1,4 +1,4 @@
-#Get Big O Notation Function
+# Get Big O Notation Function
 
 This JavaScript function getBigONotation(code) accepts a string of JavaScript code as an argument and returns the Big O notation of the code's time complexity based on the number of loop statements present in the code.
 
