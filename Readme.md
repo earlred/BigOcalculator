@@ -33,4 +33,4 @@ Please note that this function only considers the number of loops in the code an
 
 # License
 
-The MirrorFlip functions are released under the MIT license.
+The getBigONotation function is released under the MIT license.
